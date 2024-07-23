@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fnmoney-app/static/css/main.3aed56db.css",
+    "main.js": "/fnmoney-app/static/js/main.e0639a72.js",
+    "index.html": "/fnmoney-app/index.html",
+    "main.3aed56db.css.map": "/fnmoney-app/static/css/main.3aed56db.css.map",
+    "main.e0639a72.js.map": "/fnmoney-app/static/js/main.e0639a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aed56db.css",
+    "static/js/main.e0639a72.js"
+  ]
+}
